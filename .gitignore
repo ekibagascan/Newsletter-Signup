@@ -1,9 +1,5 @@
 #Private Key
 privateKey.txt
-
-#heroku Apps files
-/public
-
 # Logs
 logs
 *.log
