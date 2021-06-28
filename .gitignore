@@ -1,6 +1,9 @@
 #Private Key
 privateKey.txt
 
+#heroku Apps files
+stormy-caverns-35348
+
 # Logs
 logs
 *.log
